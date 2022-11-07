@@ -108,7 +108,7 @@ public class AnalogueClock
 
     public void Repeat()
     {
-        Console.WriteLine("Do you want to try another values? Type in \"Y\" to calculate different vales or \"N\" to stop.");
+        Console.WriteLine("Do you want to try another values? Type in \"Y\" to calculate different values or \"N\" to stop.");
         var answer = Console.ReadLine();
         
         if (answer?.ToLower() == "y")
