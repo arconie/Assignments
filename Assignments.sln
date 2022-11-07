@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalogueClock", "AnalogueClock\AnalogueClock.csproj", "{A10850DF-7C55-47CA-9CEA-08416916F7D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeBranch", "TreeBranch\TreeBranch.csproj", "{F886FC58-3D56-468E-BA0F-51F82DB788E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10850DF-7C55-47CA-9CEA-08416916F7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10850DF-7C55-47CA-9CEA-08416916F7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10850DF-7C55-47CA-9CEA-08416916F7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10850DF-7C55-47CA-9CEA-08416916F7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F886FC58-3D56-468E-BA0F-51F82DB788E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F886FC58-3D56-468E-BA0F-51F82DB788E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F886FC58-3D56-468E-BA0F-51F82DB788E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F886FC58-3D56-468E-BA0F-51F82DB788E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
